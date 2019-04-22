@@ -21,3 +21,8 @@
 | Name     | Gender |
 | ---------| -------|
 | Aaron    | Male   |
+
+
+### PrintScreen:
+
+![alt text](https://github.com/csci3250-2019/student-1155113578/blob/master/milestone%202.png)
